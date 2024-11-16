@@ -1,0 +1,28 @@
+body{
+  background-image: url(czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjcyMi1hdW0tMzFiXzFfMS5qcGc.webp);
+  height: 100vh;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 35px;
+}
+button{
+    padding: 30px 80px;
+   
+    background-color: rgb(218, 177, 170);
+    color: white;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button:hover{
+    background-color: rgba(97, 78, 74, 0.975);
+}
+
